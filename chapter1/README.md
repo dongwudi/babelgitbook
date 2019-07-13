@@ -1,1 +1,3 @@
-babel的安装
+babel的安装:
+* @babel/cli
+* @babel/core
