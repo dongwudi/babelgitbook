@@ -8,6 +8,7 @@
  * [.babelrc](chapter2/part1.md)
  * [@babel/preset-env](chapter2/part2.md)
  * [@babel/polyfill](chapter2/part3.md)
+ * [@babel/plugin-transform-runtime](chapter2/part4.md)
 
  
  
