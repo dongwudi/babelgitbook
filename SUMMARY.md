@@ -7,6 +7,7 @@
 * [配置babel](chapter2/README.md)
  * [.babelrc](chapter2/part1.md)
  * [@babel/preset-env](chapter2/part2.md)
+ * [@babel/polyfill](chapter2/part3.md)
 
  
  
